@@ -1,0 +1,7 @@
+streamlit
+joblib
+keras-facenet
+opencv-python
+pillow
+numpy
+scikit-learn
