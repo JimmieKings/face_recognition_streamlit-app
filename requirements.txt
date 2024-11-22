@@ -5,5 +5,5 @@ pillow
 numpy
 scikit-learn
 opencv-python-headless
-tensorflow-cpu==2.10.0
+tensorflow-cpu==2.9.1
 
